@@ -1,2 +1,2 @@
 # google-search-result
-google search result clone for the odin project
+google search result html and css clone project for the odin project
